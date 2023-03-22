@@ -17,21 +17,21 @@ Nas linhas 14, 15, e 16 do arquivo main.c, selecionar qual algoritmo será execu
 
 Para compilar, executar no terminal:
 
-'''
+```
 gcc -o programa main.c busca.c
-'''
+```
 
 ## Testes
 
 Após compilar a aplicação, executar:
 
-'''
+```
 ./programa < testeRand.txt
-'''
+```
 ou
-'''
+```
 ./programa < testeRand.txt
-'''
+```
 
 Dependendo se desejar executar com dados aleatórios ou ordenados.
 
